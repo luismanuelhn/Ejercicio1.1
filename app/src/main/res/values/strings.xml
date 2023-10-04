@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Egercicio1.1</string>
+    <string name="numero1">Ingrese el primer valor</string>
+    <string name="numero2">Ingrese el segundo valor</string>
+    <string name="respuesta">resultado</string>
+</resources>
